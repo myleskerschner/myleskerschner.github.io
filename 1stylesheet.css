@@ -1,0 +1,14 @@
+body {
+Background-color: rgb(58, 160, 162);
+Border: 2px solid rgb(58, 235, 238);
+Border-radius: 16px;
+Font-family: sans-serif;
+Margin-left: auto;
+Margin-right: auto;
+Max-width: 1024px;
+Min-width: 256px;
+Padding-top: 8px;
+Padding-bottom: 24px;
+Padding-left: 24px;
+Padding-right: 24px;
+}
